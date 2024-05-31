@@ -13,3 +13,6 @@ El código JavaScript se encuentra en el archivo app.js y se ejecuta después de
 ## Notas Adicionales
 - Asegúrarse de tener habilitado JavaScript en su navegador para que la aplicación funcione correctamente.
 - La conversión de temperatura se realiza en tiempo real y los resultados se muestran instantáneamente en la página.
+
+![image](https://github.com/MosqueraP/logica-programacion-2/assets/100236783/5be95461-ba46-466d-9efd-2495418b4ee2)
+
